@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Swanandi Agre
 
-<!--
-**swanandiagre/swanandiagre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🎓 Bachelor of Accounting & Finance (BAF)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning:
+- Microsoft Excel
+- SQL
+- Python
+- Power BI
+- Git & GitHub
+
+🎯 Career Goal:
+Become a skilled Data Analyst and work on real-world projects.
+
+## 🛠 Skills
+- Excel
+- SQL
+- Python
+- Power BI
+- Git
+- GitHub
+
+## 📫 Connect with me
+- GitHub: https://github.com/swanandiagre
+
+⭐ Thanks for visiting my profile!
